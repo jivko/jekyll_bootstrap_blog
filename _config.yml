@@ -12,3 +12,5 @@ github_username:  jivko
 about: This is a blog :)
 # Build settings
 markdown: kramdown
+
+permalink: /:title
